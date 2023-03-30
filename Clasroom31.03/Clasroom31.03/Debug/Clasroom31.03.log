@@ -1,0 +1,3 @@
+﻿  Clasroom31.03.cpp
+D:\study\31DO\C++\Clasroom31.03\Clasroom31.03\Clasroom31.03.cpp(125,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Clasroom31.03.vcxproj -> D:\study\31DO\C++\Clasroom31.03\Debug\Clasroom31.03.exe
